@@ -1,0 +1,108 @@
+.mainimg {
+    height: 40px;
+    width:60px;
+    border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+    margin-left: 5px;
+    margin: 1px;
+}
+.maintext {
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 550;
+    color: #303030;
+    margin: 3px;
+}
+.cart {
+    padding: 3px;
+    margin-top: 14px;
+    margin: 12px;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+    width: 200px;
+    box-shadow: 35px;
+}
+.arrow {
+    font-family: "Roboto";
+    font-size: 30px;
+    border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+    margin: 2px;
+    font-weight: 650;
+}
+.card {
+    text-align: center;
+    padding: 5px;
+    margin-left: 14px;
+    margin-right: 14px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+    width: 260px;
+    height: max-content;
+}
+.image {
+    height: 200px;
+    width: 215px;
+    border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+    margin: 3px;
+}
+.card {
+    position: relative;
+  }
+  
+#moving-image {
+    animation: moveImage 8s infinite;
+    -webkit-animation: moveImage 8s infinite;
+}
+  
+@keyframes moveImage {
+    0% {
+      transform: translateX(0);
+    }
+    50% {
+      transform: translateX(11px);
+      -webkit-transform: translateX(11px);
+      -moz-transform: translateX(11px);
+      -ms-transform: translateX(11px);
+      -o-transform: translateX(11px);
+}
+    100% {
+      transform: translateX(0);
+    }
+  }
+.card-title {
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 543;
+    color: #303030;
+}
+.imag {
+    height: 215px;
+    width:245px;
+    border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+}
+.special-cart {
+    height:306px;
+}

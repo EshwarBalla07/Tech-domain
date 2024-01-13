@@ -1,0 +1,66 @@
+.background {
+    background-image: url("https://img.freepik.com/free-photo/aerial-view-business-team_53876-124515.jpg");
+    height: 100vh;
+    width: 100vw;
+    background-size: cover; 
+    padding:10px;
+    text-align: center;
+}
+.logo {
+    height: 80px;
+    width: 150px;
+}
+.hom {
+    color: white;
+    font-size: 20px;
+}
+.hom:hover {
+    background-color: white;
+    transition: 0.5s;
+}
+h1 {
+    font-family: "Roboto";
+    font-size: 50px;
+    color: #ad2aa2;
+    font-weight: 600;
+    padding-right: 15px;
+}
+p {
+    font-family: "Roboto";
+    font-size: 35px;
+    color: aliceblue;
+    padding-right: 30px;
+}
+.but {
+    height: 40px;
+    width:120px;
+    border-radius: 7px;
+    color: white;
+    background-color:#2a69ad;
+    border-width: 0px;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    -ms-border-radius: 7px;
+    -o-border-radius: 7px;
+}
+.add {
+    color:white;
+    font-size: 35px;
+
+}
+.button:hover {
+    background-color: black;
+    color: red;
+    transition: 0.5s;
+}
+.image {
+    height: 90px;
+    width: 90px;
+}
+.font {
+    font-size: 30px;
+    color: #2bcf39;
+}
+.ivon:hover {
+    box-shadow: 20px;
+}

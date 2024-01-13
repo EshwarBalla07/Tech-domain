@@ -1,0 +1,40 @@
+.bacground {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    height: 100vh;
+    background-size: cover;
+}
+.cart {
+    background-color: #f7f8fa;
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 7px;
+    padding: 7px;
+    text-align: left;
+}
+.heading {
+    color: #ac15ed;
+    font-family: "caveat";
+    font-size: 25px;
+    font-weight: bold;
+}
+.paragraph {
+    color: #656566;
+    font-size: 18px;
+    font-family: "Roboto";
+}
+.but1 {
+    border-radius: 6px;
+    background-color: #fcfafc;
+    border-color: #bcd5eb;
+    padding: 3px;
+    height: 35px;
+    width: 95px;
+    color: #545353;
+}
+.but2 {
+    border-radius: 6px;
+    background-color: #701199;
+    color: #e4dae8;
+    padding: 3px;
+    height: 35px;
+    width: 95px;
+}

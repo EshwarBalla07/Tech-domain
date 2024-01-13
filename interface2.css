@@ -1,0 +1,39 @@
+.card {
+    padding: 3px;
+    margin: 9px;
+    border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+    width: 235px;
+    height: 50px;
+    text-align: center;
+    border-left-width: 4px;
+    border-left-color: black;
+}
+.heading {
+    font-family: "Roboto";
+    font-size: 32px;
+    font-weight: 600;
+    margin-right: 2px;
+
+}
+.button {
+    font-family: "Roboto";
+    color: white;
+    font-size: 18px;
+    font-weight: 550;
+    border-width: 0px;
+    background-color: #52b04a;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    height:35px;
+    margin: 15px;
+}  
+button::after{
+    box-shadow: #52b04a;
+}
